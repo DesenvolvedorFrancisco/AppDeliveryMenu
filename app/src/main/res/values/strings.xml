@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MenuDeliveryManutention</string>
+    <string name="find_solution">Find solution</string>
+    <string name="solution_around_you">Solution Around you</string>
+    <string name="all_menu">All menu</string>
+    <string name="filter">Filter</string>
+    <string name="tires">Tires</string>
+    <string name="suspension">Suspension</string>
+    <string name="news">News</string>
+    <string name="oil_lubrificants">Oil lubrificants</string>
+    <string name="proud1">Plus lubrificant</string>
+    <string name="proud2">Max lubrificant</string>
+    <string name="proud3">Small lubrificant</string>
+    <string name="proud4">Economic lubrificant</string>
+    <string name="proud5"> Duo Suspencion</string>
+    <string name="proud6">simple Suspension</string>
+    <string name="text_price_1">$100</string>
+    <string name="text_price_2">$200</string>
+    <string name="text_price_3">$700</string>
+    <string name="text_price_4">$600</string>
+    <string name="text_price_5">$300</string>
+    <string name="text_price_6">$800</string>
+    <string name="text_price_7">$400</string>
+    <string name="text_price_8">$200</string>
+    <string name="text_price_9">$100</string>
+    <string name="text_price_10">$140</string>
+    <string name="text_price_11">$90</string>
+    <string name="text_price_12">$350</string>
+
+
+</resources>
